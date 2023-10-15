@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "startNodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/annailinan/DZ_Node.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "ailina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annailinan/DZ_Node/issues"
+  },
+  "homepage": "https://github.com/annailinan/DZ_Node#readme",
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-plugin-vue": "^9.17.0",
+    "prettier": "^3.0.3"
+  }
+}
